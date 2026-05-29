@@ -1,0 +1,2 @@
+# NM 自动化测试 — 零外部依赖
+# configparser / ctypes / argparse 均为 Python 标准库

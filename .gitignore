@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# IDE
+.vscode/
+
+# Build outputs
+*.o
+*.axf
+*.hex
+*.bin
+*.srec
+*.exe
+*.map
+*.lnp
+*.dep
+*.htm
+*.build_log.*
+Objects/
+Listings/
+
+# DLL (proprietary SDK - not to be distributed)
+*.dll
+*.lib
+libs/
+
+# Test outputs
+Automated_Testing/output/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Keil user settings
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+uv4.log

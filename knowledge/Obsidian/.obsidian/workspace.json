@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "29d8b2aac2b90f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c74bb9ad8635001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38724202adc75e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MOC_总索引.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_MOC_总索引"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67f0585672edc71b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07af05ab0b467d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b63fad22d4688f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c7bea10195abdb9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "55a90a638b2a5859",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29eea83807d056c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cc508113bf52b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f905b741cabee1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_MOC_总索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00_MOC_总索引 的反向链接列表"
+            }
+          },
+          {
+            "id": "aca0e49b9764e1ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_MOC_总索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "00_MOC_总索引 的出链列表"
+            }
+          },
+          {
+            "id": "c7277b4f24cfbdcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "00702e1b8ce81511",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "eec60d5d3a0e8cb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_MOC_总索引.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00_MOC_总索引 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "38724202adc75e4b",
+  "lastOpenFiles": [
+    "03_状态机详解/BusSleep休眠与唤醒全流程.md",
+    "03_状态机详解/LimpHome降级与恢复.md",
+    "03_状态机详解/OSEK逻辑环协议详解.md",
+    "03_状态机详解/AUTOSAR_NM_状态机.md",
+    "03_状态机详解/OSEK_Indirect_状态机.md",
+    "03_状态机详解/OSEK_Direct_状态机.md",
+    "02_架构详解/双线缆协议设计.md",
+    "02_架构详解/状态映射与模式管理.md",
+    "02_架构详解/回调通知机制.md",
+    "02_架构详解/vtable多态分发机制.md",
+    "02_架构详解/模块依赖关系总图.md",
+    "02_架构详解/分层架构设计.md",
+    "01_概述/模块架构全景图.md",
+    "00_MOC_总索引.md",
+    "01_概述/三种NM模式对比.md",
+    "02_架构详解/API请求处理全链路.md",
+    "07_集成与附录/常见问题FAQ.md",
+    "05_源码导读/PDU数据流全程追踪.md",
+    "07_集成与附录/原始项目对照表.md",
+    "05_源码导读/数据结构运行时全景.md",
+    "04_API参考/编译开关与功能裁剪.md",
+    "07_集成与附录/Phase2_Design_设计文档.md",
+    "07_集成与附录/移植指南.md",
+    "05_源码导读/函数调用关系总图.md",
+    "04_API参考/Nm_ConfigTypes_配置类型详解.md",
+    "06_测试与验证/测试覆盖率分析.md",
+    "07_集成与附录",
+    "06_测试与验证",
+    "05_源码导读",
+    "04_API参考",
+    "03_状态机详解",
+    "02_架构详解",
+    "01_概述"
+  ]
+}
